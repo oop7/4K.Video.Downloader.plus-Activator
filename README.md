@@ -23,7 +23,7 @@ This script simplifies the process of activating 4K Video Downloader plus by aut
 - Choose an option from the menu:
 - `1` to activate 4K Video Downloader plus.
 - `2` to exit.
-- If you select 1, the script will decode the Base64 encoded files, copy them to the appropriate directory, and provide feedback on the operation status.
+- If you select 1, the script will decode the Base64 encoded files, install them to the appropriate directory, and provide feedback on the operation status.
 
 ## ✅ Troubleshooting
 
