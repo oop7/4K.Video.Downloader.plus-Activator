@@ -10,8 +10,20 @@ This script simplifies the process of activating 4K Video Downloader plus by aut
 
 ## 🛠️ Installation
 
-1. Download: Obtain the latest version of the tool from the releases page.
+### **Method 1**
+1. Download: Obtain the latest version of the tool from the [releases page](https://github.com/oop7/4K.Video.Downloader.plus-Activator/releases).
 2. Extract: Unzip the downloaded file to a directory of your choice.
+
+### **Method 2**
+1. **Open PowerShell as Administrator**:
+   - Right-click the Start menu and select **Windows PowerShell (Admin)** or **Windows Terminal (Admin)**.
+   - If prompted by User Account Control (UAC), click **Yes** to allow PowerShell to run with administrative privileges.
+
+2. Run the following command in PowerShell to download and execute the activation script:
+
+   ```powershell
+   irm https://github.com/oop7/4K.Video.Downloader.plus-Activator/releases/download/v1.0/v1.zip -OutFile v1.zip; Expand-Archive v1.zip -DestinationPath . -Force; cmd.exe /c .\v1\script.bat
+   ```
 
 ## 💻 Usage
 
