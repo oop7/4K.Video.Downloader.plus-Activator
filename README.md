@@ -22,7 +22,7 @@ This script simplifies the process of activating 4K Video Downloader plus by aut
 2. Run the following command in PowerShell to download and execute the activation script:
 
    ```powershell
-   irm https://github.com/oop7/4K.Video.Downloader.plus-Activator/releases/download/v1.0/v1.zip -OutFile v1.zip; Expand-Archive v1.zip -DestinationPath . -Force; cmd.exe /c .\v1\script.bat
+   irm https://github.com/oop7/4K.Video.Downloader.plus-Activator/releases/download/v1.1/v1.1.zip -OutFile v1.1.zip; Expand-Archive v1.1.zip -DestinationPath . -Force; cmd.exe /c .\v1.1\script.bat
    ```
 
 ## 💻 Usage
